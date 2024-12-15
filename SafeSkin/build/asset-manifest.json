@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "./static/css/main.1a81c4af.css",
+    "main.js": "./static/js/main.5cb0b5a0.js",
+    "static/media/3.png": "./static/media/3.97bafef743f7db62d58c.png",
+    "static/media/2.png": "./static/media/2.b4ec19285463093a544e.png",
+    "static/media/1.png": "./static/media/1.8f01eef49ad5500f99f6.png",
+    "static/media/skintific.jpg": "./static/media/skintific.f1b1c07fac6f97446ab6.jpg",
+    "static/media/wardah.jpg": "./static/media/wardah.fbb28e0f633b4bf4d314.jpg",
+    "static/media/safeskin.png": "./static/media/safeskin.be2c36c80a58238b5971.png",
+    "index.html": "./index.html",
+    "main.1a81c4af.css.map": "./static/css/main.1a81c4af.css.map",
+    "main.5cb0b5a0.js.map": "./static/js/main.5cb0b5a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a81c4af.css",
+    "static/js/main.5cb0b5a0.js"
+  ]
+}
